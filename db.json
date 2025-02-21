@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "First Article",
+      "summary": "This is a sample news article.",
+      "date": "2025-02-20",
+      "publisher": "NewsCorp"
+    },
+    {
+      "id": "ffcd",
+      "title": "Hello",
+      "summary": "Hi",
+      "date": "2025-02-13",
+      "publisher": "Ghanaharithiran"
+    },
+    {
+      "id": "e048",
+      "title": "Test 1",
+      "summary": "Testing",
+      "date": "2025-02-03",
+      "publisher": "Tester 1"
+    }
+  ]
+}
